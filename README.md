@@ -35,6 +35,7 @@ HOGCV.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
 # Project Output
 Now, after running the human detection python project with multiple images and video, we will get:
-!(https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/human-counting-output.jpg)
+
+![This is an image](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/human-counting-output.jpg)
 
 
