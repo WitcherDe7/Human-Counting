@@ -1,5 +1,5 @@
 # Human-Counting
-This is machine learning algorithm for human counting
+In this python project, we are going to build the Human Detection and Counting System through Webcam or you can give your own video or images. This is an intermediate level deep learning project on computer vision, which will help you to master the concepts and make you an expert in the field of Data Science. Let’s build an exciting project.
 
 # Installation
 ```
@@ -35,4 +35,6 @@ HOGCV.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
 # Project Output
 Now, after running the human detection python project with multiple images and video, we will get:
+!(https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/human-counting-output.jpg)
+
 
