@@ -10,7 +10,7 @@ pip install numpy
 
 # Steps To Build Human Detection Project
 ## Import the libraries
-```
+```python
 import cv2
 import imutils
 import numpy as np
@@ -18,7 +18,7 @@ import argparse
 ```
 
 ## Create a model which will detect Humans
-``
+``python
 HOGCV = cv2.HOGDescriptor()
 HOGCV.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 ``
