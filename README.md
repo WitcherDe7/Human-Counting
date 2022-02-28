@@ -18,10 +18,10 @@ import argparse
 ```
 
 ## Create a model which will detect Humans
-``python
+```python
 HOGCV = cv2.HOGDescriptor()
 HOGCV.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
-``
+```
 
 # Run the Human Detection Project
 ## To give video file as input
